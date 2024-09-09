@@ -1,1 +1,2 @@
 #first-ropository
+## git config
